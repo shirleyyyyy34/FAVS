@@ -3,21 +3,21 @@
 		"Producto": "Bolsa de chuches",
 		"Descripción": " Bolsa de chuches variadas",
 		"Fecha": "11/06/2023",
-		"Foto": "leche.png"
+		"Foto": "bolsa.chuches.png"
 	},
 	{
 		"id": "120",
 		"Producto": "Caja de cereales",
 		"Descripción": "Caja de cereales corn flakes ",
 		"Fecha": "01/04/2025",
-		"Foto": "dulces.png"
+		"Foto": "corn.flakes.jpg"
 	},
 	{
 		"id": "103",
 		"Producto": "Paquete de lentejas",
 		"Descripción": " Pack Lentejas 200 gr",
 		"Fecha": "10/05/2025",
-		"Foto": "bolsa.chuches.png"
+		"Foto": "lentejas1.jpg"
 	},
 	{
 		"id": "104",
