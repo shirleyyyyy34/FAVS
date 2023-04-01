@@ -17,7 +17,7 @@
 		"Producto": "Paquete de lentejas",
 		"Descripción": " Pack Lentejas 200 gr",
 		"Fecha": "10/05/2025",
-		"Foto": "lentejas1.jpg"
+		"Foto": "cereal.jpg"
 	},
 	{
 		"id": "104",
@@ -35,9 +35,9 @@
 	},
       {
             "id": "130",
-		"Producto": "Aceite de oliva ",
-		"Descripción": "Bote de aceite de oliva",
+		"Producto": "Aceite de girasol ",
+		"Descripción": "Bote de aceite de dirasol 1L",
 		"Fecha": "31/12/023",
-		"Foto": "aceite4.jpg"
+		"Foto": "aceitegirasol.jpg"
        }
 ]
